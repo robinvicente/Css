@@ -1,0 +1,47 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    background: #f5f5f5;
+
+}
+.principal-center{
+    font-family: 'Raleway', sans-serif;
+    width: 500px;
+    height: 300px;
+    position: relative;
+    text-align: center;
+    background: #848ccf;
+    border-radius: 5px;
+    box-shadow: 2px 2px 10px #585858;
+    color: whitesmoke;
+    margin: 5% auto auto;
+    padding-top: 25px;
+
+}
+input[type="text"], input[type="password"]{
+    font-family: 'Raleway', sans-serif;
+    outline: none;
+    padding: 5px;
+    display: block;
+    width: auto;
+    border-radius: 3px;
+    border: 1px solid #eee;
+    margin: auto;
+    box-shadow: 2px 2px 4px #585858;
+
+}
+
+input[type="submit"] {
+    font-family: 'Raleway', sans-serif;
+    color: #f5f5f5;
+    background: #be5683;
+    width: auto;
+    border: 0;
+    margin-left: 2px;
+    border-radius: 3px;
+    cursor: pointer;
+    box-shadow: 2px 2px 4px #585858;
+}
+
+input[type="submit"]:hover {
+    background-color: #93b5e1;
+}
