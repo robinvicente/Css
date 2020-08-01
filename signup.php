@@ -45,7 +45,6 @@
         }
         ?>
     </article>
-
 </body>
 </html>
 
