@@ -29,12 +29,14 @@
             $result = $conexion->query($query);
             if ($result->num_rows >= 1)
             {
-                echo "<h1>Bienvenido</h1>";
                 echo <<<END
                     <header class="login-header"> 
-                        <h1>Welcome to taks social</h1>
+                        <div class="central-bar">
+                            <h1>ነ Pixerly</h1>
+                        </div>
                     </header>
-                    <article class="login-article">
+                    
+                    <article class="login-central">
                         
                     </article>
                     END;

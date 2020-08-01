@@ -46,3 +46,17 @@ input[type="submit"]:hover {
     background-color: #93b5e1;
 }
 
+.login-header{
+    margin-top: 0;
+    background: #ececec;
+    font-family: 'Raleway', sans-serif;
+    height: 64px;
+    box-shadow: 1px 1px 1px #b3b3b3;
+}
+.central-bar{
+    color: #30475e;
+    text-align: center;
+    padding: 2px;
+    height: 54px;
+    font-size: 16px;
+}

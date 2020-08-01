@@ -10,10 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e589bce-334c-408c-8d4d-73ef97a5bf23" name="Default Changelist" comment="Database fixed bug">
+    <list default="true" id="6e589bce-334c-408c-8d4d-73ef97a5bf23" name="Default Changelist" comment="Advance design: signin.php">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/signin.php" beforeDir="false" afterPath="$PROJECT_DIR$/signin.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/signup.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,12 +49,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../xampp/php/phpdbg.exe" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -66,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596236147979</updated>
       <workItem from="1596236149369" duration="12847000" />
-      <workItem from="1596252970540" duration="2132000" />
+      <workItem from="1596252970540" duration="4758000" />
     </task>
     <task id="LOCAL-00001" summary="Database configuration">
       <created>1596253373288</created>
@@ -82,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596253696938</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Advance design: signin.php">
+      <created>1596255372748</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596255372748</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,7 +111,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Database configuration" />
     <MESSAGE value="Database fixed bug" />
-    <option name="LAST_COMMIT_MESSAGE" value="Database fixed bug" />
+    <MESSAGE value="Advance design: signin.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="Advance design: signin.php" />
   </component>
   <component name="WindowStateProjectService">
     <state x="388" y="185" key="#CLI_Interpreters" timestamp="1596236407205">
@@ -113,6 +123,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="401" y="382" key="#SQL_Dialects/0.0.1920.1080@0.0.1920.1080" timestamp="1596253458089" />
+    <state x="689" y="427" key="#Stylelint" timestamp="1596256273582">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="689" y="427" key="#Stylelint/0.0.1920.1080@0.0.1920.1080" timestamp="1596256273582" />
     <state x="552" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596237259678">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -141,10 +155,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="666" y="262" key="NewPhpClassDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1596253402908" />
-    <state x="309" y="175" key="SettingsEditor" timestamp="1596252927390">
+    <state x="309" y="175" key="SettingsEditor" timestamp="1596256283481">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="309" y="175" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1596252927390" />
+    <state x="309" y="175" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1596256283481" />
     <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1596254770035">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
