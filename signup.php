@@ -11,6 +11,11 @@
     <title>Document</title>
 </head>
 <body>
+    <header class="login-header">
+        <div class="central-bar">
+            <h1>ነ Pixerly</h1>
+        </div>
+    </header>
     <article class="principal-center">
 
         <?php
