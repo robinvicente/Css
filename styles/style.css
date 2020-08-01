@@ -3,7 +3,7 @@ body{
     background: #f5f5f5;
 
 }
-.principal-center{
+.principal-center, .login-central{
     font-family: 'Raleway', sans-serif;
     width: 500px;
     height: 300px;
@@ -45,3 +45,4 @@ input[type="submit"] {
 input[type="submit"]:hover {
     background-color: #93b5e1;
 }
+

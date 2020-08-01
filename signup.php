@@ -28,7 +28,6 @@
             if (!$result) die ("Falló registro");
 
             echo "Registro exitoso <a href='signin.php'>Ingresar</a>";
-
         }
         else
         {

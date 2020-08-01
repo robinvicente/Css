@@ -10,10 +10,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e589bce-334c-408c-8d4d-73ef97a5bf23" name="Default Changelist" comment="Database configuration">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e7f6a428-937f-4d56-b06d-b2f9dec308a0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e7f6a428-937f-4d56-b06d-b2f9dec308a0.xml" afterDir="false" />
+    <list default="true" id="6e589bce-334c-408c-8d4d-73ef97a5bf23" name="Default Changelist" comment="Database fixed bug">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signin.php" beforeDir="false" afterPath="$PROJECT_DIR$/signin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/signup.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596236147979</updated>
       <workItem from="1596236149369" duration="12847000" />
-      <workItem from="1596252970540" duration="666000" />
+      <workItem from="1596252970540" duration="2132000" />
     </task>
     <task id="LOCAL-00001" summary="Database configuration">
       <created>1596253373288</created>
@@ -74,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596253373288</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Database fixed bug">
+      <created>1596253696938</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596253696938</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,7 +101,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Database configuration" />
-    <option name="LAST_COMMIT_MESSAGE" value="Database configuration" />
+    <MESSAGE value="Database fixed bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="Database fixed bug" />
   </component>
   <component name="WindowStateProjectService">
     <state x="388" y="185" key="#CLI_Interpreters" timestamp="1596236407205">
@@ -136,5 +145,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="309" y="175" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1596252927390" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1596254770035">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1596254770035" />
   </component>
 </project>
