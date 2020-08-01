@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e589bce-334c-408c-8d4d-73ef97a5bf23" name="Default Changelist" comment="">
+    <list default="true" id="6e589bce-334c-408c-8d4d-73ef97a5bf23" name="Default Changelist" comment="Database configuration">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/e7f6a428-937f-4d56-b06d-b2f9dec308a0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/e7f6a428-937f-4d56-b06d-b2f9dec308a0.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/unsplash-Tim Mossholder.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/signup.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user.sql" beforeDir="false" afterPath="$PROJECT_DIR$/user.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/login.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,18 +65,45 @@
       <option name="presentableId" value="Default" />
       <updated>1596236147979</updated>
       <workItem from="1596236149369" duration="12847000" />
-      <workItem from="1596252970540" duration="322000" />
+      <workItem from="1596252970540" duration="666000" />
     </task>
+    <task id="LOCAL-00001" summary="Database configuration">
+      <created>1596253373288</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596253373288</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Database configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="Database configuration" />
   </component>
   <component name="WindowStateProjectService">
     <state x="388" y="185" key="#CLI_Interpreters" timestamp="1596236407205">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="388" y="185" key="#CLI_Interpreters/0.0.1920.1080@0.0.1920.1080" timestamp="1596236407205" />
+    <state x="401" y="382" key="#SQL_Dialects" timestamp="1596253458089">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="401" y="382" key="#SQL_Dialects/0.0.1920.1080@0.0.1920.1080" timestamp="1596253458089" />
     <state x="552" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596237259678">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -77,22 +112,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="588" y="285" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1596236394004" />
-    <state width="1294" height="110" key="GridCell.Tab.0.bottom" timestamp="1596242163614">
+    <state width="1294" height="357" key="GridCell.Tab.0.bottom" timestamp="1596253333170">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1294" height="110" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1596242163614" />
-    <state width="1294" height="110" key="GridCell.Tab.0.center" timestamp="1596242163613">
+    <state width="1294" height="357" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1596253333170" />
+    <state width="1294" height="357" key="GridCell.Tab.0.center" timestamp="1596253333170">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1294" height="110" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1596242163613" />
-    <state width="1294" height="110" key="GridCell.Tab.0.left" timestamp="1596242163613">
+    <state width="1294" height="357" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1596253333170" />
+    <state width="1294" height="357" key="GridCell.Tab.0.left" timestamp="1596253333169">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1294" height="110" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1596242163613" />
-    <state width="1294" height="110" key="GridCell.Tab.0.right" timestamp="1596242163613">
+    <state width="1294" height="357" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1596253333169" />
+    <state width="1294" height="357" key="GridCell.Tab.0.right" timestamp="1596253333170">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1294" height="110" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1596242163613" />
+    <state width="1294" height="357" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1596253333170" />
+    <state x="666" y="262" key="NewPhpClassDialog" timestamp="1596253402908">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="666" y="262" key="NewPhpClassDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1596253402908" />
     <state x="309" y="175" key="SettingsEditor" timestamp="1596252927390">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
