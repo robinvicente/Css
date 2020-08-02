@@ -1,79 +1,87 @@
 body{
-    font-family: 'Raleway', sans-serif;
     background: #f9f7f7;
-
+    box-sizing: border-box;
 }
 .principal-center, .login-central{
     font-family: 'Raleway', sans-serif;
-    width: 20em;
+    font-size: 1em;
+    width: 16em;
     height: auto;
     background: #f9f7f7;
     text-align: center;
     border-radius: 5px;
-   /* box-shadow: 2px 2px 2px #c0b3d4;*/
+    box-shadow: 2px 2px 2px #c0b3d4;
     color: #3f72af;
     margin: 5% auto auto auto;
-
     border: 1px solid #dbe2ef;
 
 }
 .box{
     width: 12em;
-    border: 1px solid #3f72af;
+    /*border: 1px solid #3f72af;*/
     margin: auto;
 
 }
 input[type="text"], input[type="password"]{
     box-sizing: border-box;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-size: medium;
     background: #f9f7f7;
     display: block;
     border-radius: 5px;
     border: 1px solid #dbe2ef;
     width: 12em;
-    margin: 15px auto auto auto;
-    padding: 4px;
+    margin: 15px auto 15px auto;
+    padding: 8px;
 
-
+}
+input[type="text"]:hover, input[type="password"]:hover{
+    border: 1px solid #3f72af ;
 }
 .inputs{
-
-    border: 1px solid #dbe2ef;
+    box-sizing: border-box;
+   /* border: 1px solid #dbe2ef; Guias */
 }
 input[type="submit"] {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Poppins', sans-serif;
     color: #f5f5f5;
-    background: #424874;
-    padding: 2px;
-    width: content-box;
+    background: #3f72af;
     border: 0;
     border-radius: 3px;
     cursor: pointer;
     align-content: center;
     display: block;
-    margin: 15px auto auto auto;
+    margin: 30px auto 30px auto;
     font-size: 1em;
+    padding: 8px;
 
 }
 
 input[type="submit"]:hover {
-    background-color: #f4eeff;
-    color: #424874;
+
+    background-color: #f9f7f7;
+    color: #3f72af;
+    border: 1px solid #3f72af;
+
 }
 
-.central{
+.central,h1{
     color: #112d4e;
+    font-size: 1.5em;
     text-align: center;
     height:max-content;
-    font-size: 0.9em;
-    border: 1px solid #dbe2ef;
-    margin-top: 0;
-}
-.second{
-    color: #3f72af;
-    font-size: .5em;
+   /* border: 1px solid #dbe2ef;*/
     margin: auto;
-    border: 1px solid #dbe2ef;
+    padding-top: 15px;
+    padding-bottom: 15px;s
+}
+.second,p{
+    color: #3f72af;
+    font-size: medium;
+    padding: 0;
+    margin: 0;
+  /*  border: 1px solid #dbe2ef;*/
     text-align: left;
+    font-family: 'Poppins', sans-serif;
 
 }

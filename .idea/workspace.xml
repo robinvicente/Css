@@ -10,8 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e589bce-334c-408c-8d4d-73ef97a5bf23" name="Default Changelist" comment="Fixing styles and html">
+    <list default="true" id="6e589bce-334c-408c-8d4d-73ef97a5bf23" name="Default Changelist" comment="Fixing styles v2 and html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/signup.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +73,7 @@
       <workItem from="1596292209932" duration="1655000" />
       <workItem from="1596293904883" duration="3971000" />
       <workItem from="1596328719229" duration="3211000" />
-      <workItem from="1596384771422" duration="9085000" />
+      <workItem from="1596384771422" duration="12110000" />
     </task>
     <task id="LOCAL-00001" summary="Database configuration">
       <created>1596253373288</created>
@@ -116,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596403442947</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Fixing styles v2 and html">
+      <created>1596405311270</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1596405311270</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -144,7 +152,8 @@
     <MESSAGE value="I'm sleepy" />
     <MESSAGE value="Solitary morning :)" />
     <MESSAGE value="Fixing styles and html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixing styles and html" />
+    <MESSAGE value="Fixing styles v2 and html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixing styles v2 and html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="388" y="185" key="#CLI_Interpreters" timestamp="1596236407205">

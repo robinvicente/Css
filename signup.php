@@ -6,6 +6,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,300;0,400;0,500;0,700;1,400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,700;1,300;1,400&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="styles/normalize.css">
     <link rel="stylesheet" href="styles/style.css">
     <title>Document</title>
@@ -36,14 +37,13 @@
                 <h1>ነ Pixerly</h1>
             </div>
             <div class="second">
-                <h1>Regístrate</h1>
+                <p>Regístrate</p>
             </div>
             <div class="inputs">
                 <form action="signup.php" method="post">
                     <input type="text" name="user" placeholder="Usuario">
                     <input type="password" name="pass" placeholder="Contraseña">
                     <input type="submit" value="Registarme">
-                    <input type="submit" value="Acceder">
                 </form>
             </div>
         _END;
