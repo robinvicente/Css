@@ -12,13 +12,12 @@ body{
     border-radius: 5px;
     box-shadow: 2px 2px 2px #c0b3d4;
     color: #3f72af;
-    margin: 5% auto auto auto;
+    margin: 10% auto auto auto;
     border: 1px solid #dbe2ef;
 
 }
 .box{
     width: 12em;
-    /*border: 1px solid #3f72af;*/
     margin: auto;
 
 }
