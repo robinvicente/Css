@@ -10,9 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e589bce-334c-408c-8d4d-73ef97a5bf23" name="Default Changelist" comment="Solitary morning :)">
+    <list default="true" id="6e589bce-334c-408c-8d4d-73ef97a5bf23" name="Default Changelist" comment="Fixing styles and html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/signup.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +56,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.stylelint" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -72,7 +72,7 @@
       <workItem from="1596292209932" duration="1655000" />
       <workItem from="1596293904883" duration="3971000" />
       <workItem from="1596328719229" duration="3211000" />
-      <workItem from="1596384771422" duration="6981000" />
+      <workItem from="1596384771422" duration="9085000" />
     </task>
     <task id="LOCAL-00001" summary="Database configuration">
       <created>1596253373288</created>
@@ -109,8 +109,18 @@
       <option name="project" value="LOCAL" />
       <updated>1596292947404</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Fixing styles and html">
+      <created>1596403442947</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596403442947</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="shellPath" value="C:\Program Files\Git\bin\sh.exe" />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
@@ -133,7 +143,8 @@
     <MESSAGE value="Advance design: signin.php" />
     <MESSAGE value="I'm sleepy" />
     <MESSAGE value="Solitary morning :)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solitary morning :)" />
+    <MESSAGE value="Fixing styles and html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixing styles and html" />
   </component>
   <component name="WindowStateProjectService">
     <state x="388" y="185" key="#CLI_Interpreters" timestamp="1596236407205">
@@ -152,10 +163,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="552" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1596237259678" />
-    <state x="588" y="285" key="FileChooserDialogImpl" timestamp="1596236394004">
+    <state x="588" y="285" key="FileChooserDialogImpl" timestamp="1596403489227">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="588" y="285" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1596236394004" />
+    <state x="588" y="285" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1596403489227" />
     <state width="1294" height="357" key="GridCell.Tab.0.bottom" timestamp="1596253333170">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -176,10 +187,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="666" y="262" key="NewPhpClassDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1596253402908" />
-    <state x="302" y="167" key="SettingsEditor" timestamp="1596333139479">
+    <state x="302" y="167" key="SettingsEditor" timestamp="1596403581706">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="302" y="167" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1596333139479" />
+    <state x="302" y="167" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1596403581706" />
     <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1596254770035">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

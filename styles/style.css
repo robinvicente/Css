@@ -5,7 +5,7 @@ body{
 }
 .principal-center, .login-central{
     font-family: 'Raleway', sans-serif;
-    width: 350px;
+    width: 20em;
     height: auto;
     background: #f9f7f7;
     text-align: center;
@@ -18,17 +18,22 @@ body{
 
 }
 .box{
-
+    width: 12em;
     border: 1px solid #3f72af;
-    margin: auto 70px auto 70px;
+    margin: auto;
+
 }
 input[type="text"], input[type="password"]{
+    box-sizing: border-box;
     font-family: 'Raleway', sans-serif;
     background: #f9f7f7;
-    padding: 8px;
     display: block;
     border-radius: 5px;
     border: 1px solid #dbe2ef;
+    width: 12em;
+    margin: 15px auto auto auto;
+    padding: 4px;
+
 
 }
 .inputs{
@@ -39,14 +44,16 @@ input[type="submit"] {
     font-family: 'Raleway', sans-serif;
     color: #f5f5f5;
     background: #424874;
-    padding: 8px;
-    width: 120px;
+    padding: 2px;
+    width: content-box;
     border: 0;
     border-radius: 3px;
     cursor: pointer;
     align-content: center;
     display: block;
-    margin: auto;
+    margin: 15px auto auto auto;
+    font-size: 1em;
+
 }
 
 input[type="submit"]:hover {
