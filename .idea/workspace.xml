@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e589bce-334c-408c-8d4d-73ef97a5bf23" name="Default Changelist" comment="I'm sleepy">
+    <list default="true" id="6e589bce-334c-408c-8d4d-73ef97a5bf23" name="Default Changelist" comment="Solitary morning :)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/signup.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
@@ -57,7 +57,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.stylelint" value="" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -69,7 +69,10 @@
       <updated>1596236147979</updated>
       <workItem from="1596236149369" duration="12847000" />
       <workItem from="1596252970540" duration="4906000" />
-      <workItem from="1596292209932" duration="693000" />
+      <workItem from="1596292209932" duration="1655000" />
+      <workItem from="1596293904883" duration="3971000" />
+      <workItem from="1596328719229" duration="3211000" />
+      <workItem from="1596384771422" duration="6981000" />
     </task>
     <task id="LOCAL-00001" summary="Database configuration">
       <created>1596253373288</created>
@@ -99,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596257978721</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Solitary morning :)">
+      <created>1596292947404</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1596292947404</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,7 +132,8 @@
     <MESSAGE value="Database fixed bug" />
     <MESSAGE value="Advance design: signin.php" />
     <MESSAGE value="I'm sleepy" />
-    <option name="LAST_COMMIT_MESSAGE" value="I'm sleepy" />
+    <MESSAGE value="Solitary morning :)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solitary morning :)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="388" y="185" key="#CLI_Interpreters" timestamp="1596236407205">
@@ -165,10 +176,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="666" y="262" key="NewPhpClassDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1596253402908" />
-    <state x="287" y="198" key="SettingsEditor" timestamp="1596292260949">
+    <state x="302" y="167" key="SettingsEditor" timestamp="1596333139479">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="287" y="198" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1596292260949" />
+    <state x="302" y="167" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1596333139479" />
     <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1596254770035">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

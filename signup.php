@@ -11,43 +11,45 @@
     <title>Document</title>
 </head>
 <body>
-    <header class="login-header">
-        <div class="central-bar">
-            <h1>ነ Pixerly</h1>
-        </div>
-    </header>
     <article class="principal-center">
+        <nav class="box">
+            <?php
+            require_once 'login.php';
+            $conexion = new mysqli($hn, $un, $pw, $db);
+            if ($conexion->connect_error) die ("Fatal error");
 
-        <?php
-        require_once 'login.php';
-        $conexion = new mysqli($hn, $un, $pw, $db);
-        if ($conexion->connect_error) die ("Fatal error");
+            if(isset($_POST['user']) && isset($_POST['pass']))
+            {
+                $user = $_POST['user'];
+                $pass = md5($_POST['pass']);
 
-        if(isset($_POST['user']) && isset($_POST['pass']))
-        {
-            $user = $_POST['user'];
-            $pass = md5($_POST['pass']);
+                $query = "INSERT INTO users VALUES('$user' , '$pass')";
+                $result = $conexion->query($query);
+                if (!$result) die ("Falló registro");
 
-            $query = "INSERT INTO users VALUES('$user', '$pass')";
-            $result = $conexion->query($query);
-            if (!$result) die ("Falló registro");
-
-            echo "Registro exitoso <a href='signin.php'>Ingresar</a>";
-        }
-        else
-        {
-            echo <<<_END
-            <h1>Regístrate</h1>
-                <form action="signup.php" method="post"><pre>
-                <input type="text" name="user" placeholder="User">
-                <input type="password" name="pass" placeholder="Password">
-                <input type="submit" value="REGISTRAR">
-                <input type="submit" value="LOGIN">
-                </pre>
-            </form>
+                echo "Registro exitoso <a href='signin.php'>Ingresar</a>";
+            }
+            else
+            {
+                echo <<<_END
+            <div class="central">
+                <h1>ነ Pixerly</h1>
+            </div>
+            <div class="second">
+                <h1>Regístrate</h1>
+            </div>
+            <div class="inputs">
+                <form action="signup.php" method="post">
+                    <input type="text" name="user" placeholder="Usuario">
+                    <input type="password" name="pass" placeholder="Contraseña">
+                    <input type="submit" value="Registarme">
+                    <input type="submit" value="Acceder">
+                </form>
+            </div>
         _END;
-        }
-        ?>
+            }
+            ?>
+        </nav>
     </article>
 </body>
 </html>

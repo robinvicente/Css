@@ -1,62 +1,72 @@
 body{
     font-family: 'Raleway', sans-serif;
-    background: #f5f5f5;
+    background: #f9f7f7;
 
 }
 .principal-center, .login-central{
     font-family: 'Raleway', sans-serif;
-    width: 500px;
+    width: 350px;
     height: auto;
-    position: relative;
+    background: #f9f7f7;
     text-align: center;
-    background: #848ccf;
     border-radius: 5px;
-    box-shadow: 2px 2px 10px #585858;
-    color: whitesmoke;
-    margin: 5% auto auto;
-    padding-top: 25px;
+   /* box-shadow: 2px 2px 2px #c0b3d4;*/
+    color: #3f72af;
+    margin: 5% auto auto auto;
 
+    border: 1px solid #dbe2ef;
+
+}
+.box{
+
+    border: 1px solid #3f72af;
+    margin: auto 70px auto 70px;
 }
 input[type="text"], input[type="password"]{
     font-family: 'Raleway', sans-serif;
-    outline: none;
-    padding: 12px;
+    background: #f9f7f7;
+    padding: 8px;
     display: block;
-    width: auto;
-    border-radius: 3px;
-    border: 1px solid #eee;
-    margin: auto;
+    border-radius: 5px;
+    border: 1px solid #dbe2ef;
 
 }
+.inputs{
 
+    border: 1px solid #dbe2ef;
+}
 input[type="submit"] {
     font-family: 'Raleway', sans-serif;
     color: #f5f5f5;
-    background: #be5683;
-    padding: 12px;
+    background: #424874;
+    padding: 8px;
     width: 120px;
     border: 0;
-    margin-left: 2px;
     border-radius: 3px;
     cursor: pointer;
-    margin-bottom: 10px;
+    align-content: center;
+    display: block;
+    margin: auto;
 }
 
 input[type="submit"]:hover {
-    background-color: #93b5e1;
+    background-color: #f4eeff;
+    color: #424874;
 }
 
-.login-header{
-    margin-top: 0;
-    background: #ececec;
-    font-family: 'Raleway', sans-serif;
-    height: 64px;
-    box-shadow: 1px 1px 1px #b3b3b3;
-}
-.central-bar{
-    color: #30475e;
+.central{
+    color: #112d4e;
     text-align: center;
-    padding: 2px;
-    height: 54px;
-    font-size: 16px;
+    height:max-content;
+    font-size: 0.9em;
+    border: 1px solid #dbe2ef;
+    margin-top: 0;
+}
+.second{
+    color: #3f72af;
+    font-size: .5em;
+    margin: auto;
+    border: 1px solid #dbe2ef;
+    text-align: left;
+
 }
