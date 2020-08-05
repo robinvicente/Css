@@ -12,6 +12,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6e589bce-334c-408c-8d4d-73ef97a5bf23" name="Default Changelist" comment="Final version SignUp">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signin.php" beforeDir="false" afterPath="$PROJECT_DIR$/signin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/signup.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +74,8 @@
       <workItem from="1596292209932" duration="1655000" />
       <workItem from="1596293904883" duration="3971000" />
       <workItem from="1596328719229" duration="3211000" />
-      <workItem from="1596384771422" duration="12623000" />
+      <workItem from="1596384771422" duration="14063000" />
+      <workItem from="1596592203588" duration="2359000" />
     </task>
     <task id="LOCAL-00001" summary="Database configuration">
       <created>1596253373288</created>
@@ -130,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596408366788</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Final version SignUp">
+      <created>1596408844362</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1596408844362</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -204,10 +214,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="666" y="262" key="NewPhpClassDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1596253402908" />
-    <state x="302" y="167" key="SettingsEditor" timestamp="1596403581706">
+    <state x="302" y="167" key="SettingsEditor" timestamp="1596408995014">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="302" y="167" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1596403581706" />
+    <state x="302" y="167" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1596408995014" />
     <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1596254770035">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>

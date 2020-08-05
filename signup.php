@@ -33,20 +33,20 @@
             else
             {
                 echo <<<_END
-            <div class="central">
-                <h1>ነ Pixerly</h1>
-            </div>
-            <div class="second">
-                <p>Regístrate</p>
-            </div>
-            <div class="inputs">
-                <form action="signup.php" method="post">
-                    <input type="text" name="user" placeholder="Usuario">
-                    <input type="password" name="pass" placeholder="Contraseña">
-                    <input type="submit" value="Registarme">
-                </form>
-            </div>
-        _END;
+                    <div class="central">
+                        <h1>ነ Pixerly</h1>
+                    </div>
+                    <div class="second">
+                        <p>Regístrate</p>
+                    </div>
+                    <div class="inputs">
+                        <form action="signup.php" method="post">
+                            <input type="text" name="user" placeholder="Usuario">
+                            <input type="password" name="pass" placeholder="Contraseña">
+                            <input type="submit" value="Registarme">
+                        </form>
+                    </div>
+                _END;
             }
             ?>
         </nav>

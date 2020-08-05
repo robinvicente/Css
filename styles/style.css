@@ -2,7 +2,7 @@ body{
     background: #f9f7f7;
     box-sizing: border-box;
 }
-.principal-center, .login-central{
+.principal-center{
     font-family: 'Raleway', sans-serif;
     font-size: 1em;
     width: 16em;
@@ -82,5 +82,24 @@ input[type="submit"]:hover {
   /*  border: 1px solid #dbe2ef;*/
     text-align: left;
     font-family: 'Poppins', sans-serif;
+    /*display: inline;*/
 
+}
+.principal-center-login{
+    font-family: 'Raleway', sans-serif;
+    font-size: 1em;
+    width: 16em;
+    height: 24em;
+    background: #f9f7f7;
+    text-align: center;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px #c0b3d4;
+    color: #3f72af;
+    margin: 10% auto auto auto;
+    border: 1px solid #dbe2ef;
+
+}
+.mini, h2 {
+    display: inline;
+    font-size: medium;
 }
