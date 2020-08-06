@@ -30,15 +30,8 @@
                 $result = $conexion->query($query);
                 if ($result->num_rows >= 1)
                 {
-                    echo <<<END
-                            <nav class="box"
-                                <div class="central">
-                                    <h1>ነ Pixerly</h1>
-                                </div>
-                            <div class="second">
-                                <p>Has accedido corectamente</p>
-                            </div>
-                    END;
+                    header ("Location: app.html");
+
                 }
                 else
                     echo "Usuario o password incorrecto <a href='signup.php'>Registrarse?</a>";

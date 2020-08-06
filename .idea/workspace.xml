@@ -10,11 +10,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6e589bce-334c-408c-8d4d-73ef97a5bf23" name="Default Changelist" comment="Final version SignUp">
+    <list default="true" id="6e589bce-334c-408c-8d4d-73ef97a5bf23" name="Default Changelist" comment="Acceptable design">
+      <change afterPath="$PROJECT_DIR$/app.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/app.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/signin.php" beforeDir="false" afterPath="$PROJECT_DIR$/signin.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/signup.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +27,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="CSS File" />
       </list>
     </option>
@@ -45,6 +46,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../xampp/php/phpdbg.exe" />
@@ -75,7 +77,9 @@
       <workItem from="1596293904883" duration="3971000" />
       <workItem from="1596328719229" duration="3211000" />
       <workItem from="1596384771422" duration="14063000" />
-      <workItem from="1596592203588" duration="2359000" />
+      <workItem from="1596592203588" duration="2523000" />
+      <workItem from="1596646828969" duration="6521000" />
+      <workItem from="1596730539959" duration="2026000" />
     </task>
     <task id="LOCAL-00001" summary="Database configuration">
       <created>1596253373288</created>
@@ -140,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596408844362</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Acceptable design">
+      <created>1596594658292</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1596594658292</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TerminalProjectNonSharedOptionsProvider">
@@ -171,7 +182,8 @@
     <MESSAGE value="Fixing styles v2 and html" />
     <MESSAGE value="Fixing styles v3 and html v2" />
     <MESSAGE value="Final version SignUp" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final version SignUp" />
+    <MESSAGE value="Acceptable design" />
+    <option name="LAST_COMMIT_MESSAGE" value="Acceptable design" />
   </component>
   <component name="WindowStateProjectService">
     <state x="388" y="185" key="#CLI_Interpreters" timestamp="1596236407205">
@@ -214,10 +226,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="666" y="262" key="NewPhpClassDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1596253402908" />
-    <state x="302" y="167" key="SettingsEditor" timestamp="1596408995014">
+    <state x="302" y="167" key="SettingsEditor" timestamp="1596656338769">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="302" y="167" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1596408995014" />
+    <state x="302" y="167" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1596656338769" />
     <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1596254770035">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
